@@ -1,4 +1,5 @@
 The News Niche
+
 The News Niche is a global news website designed to fetch and display news articles on various topics using the News API. The site provides categorized sections such as "Breaking News," "Technology," "Politics," and more, allowing users to easily explore the latest headlines and search for specific news topics.
 
 Table of Contents:
